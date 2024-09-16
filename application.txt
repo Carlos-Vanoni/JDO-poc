@@ -1,0 +1,4 @@
+javax.jdo.PersistenceManagerFactoryClass=org.datanucleus.api.jdo.JDOPersistenceManagerFactory
+javax.jdo.option.ConnectionURL=jdbc:postgresql://localhost:5432/postgres
+javax.jdo.option.ConnectionUserName=postgres
+javax.jdo.option.ConnectionPassword=root
